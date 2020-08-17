@@ -1367,14 +1367,14 @@
  WRS.22.a:0 "우리는 그들을 묻어버릴것이다."
 
 #The bombings end, military exercises resume, and Tukhachevsky is informed that he will need to step up his training programs to handle new influx of resources.
- WRS.23.t:0 "Arkhangelsk's New Directive"
+ WRS.23.t:0 "아르한겔스크의 새 지령"
  WRS.23.d:0 "General Tukhachevsky had expected the telegram from Arkhangelsk. His own intelligence corp, limited as it was, had plotted the decreasing frequency of bombing runs. Traders that plied the routes between Western Russia and Moskowien had brought the rumors of the rising tensions in Germany. A German civil war seemed on the horizon. With it would come the end of the terror bombing.\n\nArkhangelsk expected much of him. The telegram from the Front's command informed him of the upcoming opportunity caused by a breakdown of the Reich. Resources would be free to move without the fear of aerial harassment. Offensive operations would be free to begin against the reactionaries and traitors of the Russian Anarchy. Tukhachevsky would be at the center of this; the other commanders expected him to step up his training program and convert a flood of raw resources and green recruits into hardened army corps.\n\nThe general thought of Zhukov receiving orders. He smiled. High command would no doubt see the assignments as a way for ambitious generals to prove themselves. Never a better time for general Tukhachevsky to secure his ascendance once and for all."
  WRS.23.a:0 "They'll have no cause for complaint from me."
 
 #The bombings end, industry is uncovered, and Zhukov is informed that quotas are going up so that the WRRF can reclaim Russia, finally.
- WRS.24.t:0 "Arkhangelsk's New Directive"
+ WRS.24.t:0 "아르한겔스크의 새 지령"
  WRS.24.d:0 "Zhukov began his day reading the news from the north. Arkhangelsk's top brass had seen fit to confirm the general's suspicion about the decreasing rate of German bombing. With Germany itself spiralling closer and closer to civil unrest, the amount of resources allocated to the terror bombing was dwindling fast. Soon the Russian Anarchy might end.\n\nThis would make Zhukov's assignment much easier. The oil and agricultural sectors he had been tasked to develop would finally be free to use the full range of industrial techniques. Supply chains would be freed from the risk of being bombed during the day, making it easier to import the crucial ressources the Front needed. The Front's higher up expected Zhukov to increase the quota of goods brought to the Front for the war effort. The general had no intention of failing this task.\n\nThe general thought of his rival to the west. Tukhachevsky would no doubt see additional troop requests from Arkhangelsk. The upcoming wars of liberation would be an excellent opportunity to show loyalty and competence to the Red Army's leadership. Zhukov hoped the Front's would not be distracted by court politics at this crucial time."
- WRS.24.a:0 "We will craft the workers' sword."
+ WRS.24.a:0 "우리는 노동자들의 검을 벼려내리라."
  
 #fuck time is running out - we need food
  WRS.25.t:0 "콩알 세기"
@@ -1388,9 +1388,9 @@
  WRS.26.a:0 "한입 한입마다, 그레첸코는 자신의 노동의 과실을 상기하였습니다."
  
 #Fuck suslov all my homies hate suslov
- WRS.27.t:0 "Tukhachevky's Confession"
- WRS.27.d:0 ""Don't think I don't know the knives you miserable whoresons sharpen behind my back. I can see the intent in your eyes: anger, jealousy, and spite for the old babushka strutting around with Mikhail Tukhachevsky's name. But some also ask a question. I'm sure many of you wish an answer as well. It's one we've struggled to provide ever since Suvorov:\n\n"'Why? What happened?' Listen here and listen well. You're getting your fucking answer.\n\n"It starts with one man's name. Rather, his ambitions. He was a conniving cunt in the best of times, letting goons do the doing and dying for him while he climbs the Presidium under everyone's noses. Man put power over principle and hid it well; it showed only when he saw the perfect chance. One of these chances was when the Grand Marshal ordered the tactical retreat. Imagine all the Union's finest - Marshals, Premiers, Chairmen - bunched up like a sheaf of grain in one spot.\n\n"Those bombs weren't German.\n\n"Fortunately he missed his chance - but the damage was done. Voroshilov's tactical retreat became a disorganized rout. The Union scattered across Russia's east. Your friends and brothers and sons gave their lives not against the fascist, but against a coup disguised in friendly fire.\n\n"You will learn to hate Mikhail Suslov's name as much as I do. Tender it, nurture it, stoke it. And know that I'll bring each and every one of you hateful bastards with me to Syktyvkar. I'll drag the traitor out of his little citadel myself, show the world the face and deeds he hides in shadow. When that time comes, his life is in your hands.""
- WRS.27.a:0 "You have a Tokarev. Don't dissapoint me."
+ WRS.27.t:0 "투하쳅스키의 고백"
+ WRS.27.d:0 ""네놈들 비참한 창년의 자식들이 내 등 뒤에서 갈고 다니는 칼을 모를거라 생각하지 마라. 난 너희들의 눈에서 그 의도를 읽을 수 있다. 분노와 질투, 그리고 미하일 투하쳅스키의 이름을 걸고 거드럭거리며 늙은 할머니나 괴롭히는 짓거리들. 하지만 몇몇은 내게 질문하기도 하지. 너희들 중 많은 사람들도 대답을 원할거야. 수보로프 이후 우리가 해답을 주기 위해서 노력하고 있는것 말이지."\n\n'왜지? 무슨일이 일어난거지?' 이곳에서 귀를 열고 들어라. 그 씨발라먹을 대답을 해줄테니.\n\n"이건 한 사람의 이름에서 시작된다. 더 정확히는, 그의 야망에서. 최고의 시간에서 조차 남을 음해하는 쌍년이자 바보들이 의무를 다하고 그를 위해 죽어가는동안 모두의 등잔 밑에서 상임간부회에 오르고자 노력했던 그놈. 그 자식은 권력을 원칙 위에 올려두곤 잘 숨겨뒀어. 그리고 완벽한 기회를 포착했을때 나타났지. 이 기회들 중 하나는 대원수가 전술적 퇴각을 명령했을때야. 상상해봐. 모든 연방의 제일가는 원수, 장관, 의장들이 한 자리에 마치 밀 다발처럼 뭉쳐있는 모습을.\n\n"그 폭탄은 독일놈들게 아니였어."\n\n "다행히 그놈은 기회를 놓쳤지만, 이미 피해는 발생했다. 보로실로프의 전술적 후퇴는 곧 무질서한 패퇴로 변해버렸고, 연방은 조각난채로 러시아 동부에 흩어졌지. 너희의 친구들과 형제들과 아들들은 파시스트에 맞서기 위해 목숨을 바쳤던게 아니야. 아군 오사를 위장한 쿠데타에 맞서 죽었던거다.\n\n"나만큼 미하일 수슬로프의 이름을 미워하는법을 곧 배우게 될거다. 그걸 공감하고, 양육하고, 쌓아라. 그리고 내가 증오스런 씹새끼들을 한놈 한놈 모조리 나와 함깨 식팁카르로 데려올거란걸 알아라. 내가 반역자를 조그만 성채에서 직접 끌어내어 그림자 속에 가려둔 악행과 얼굴을 세상에 보여줄것이다. 그때가 되면, 그놈의 목숨은 너희 손에 달려있을거야.""
+ WRS.27.a:0 "넌 토카레프를 지니고 있지. 날 실망시키지 마라."
  
 #war communism
  WRS.28.t:0 "From a Poster in Arkhangelsk."
