@@ -1,15 +1,15 @@
 ﻿l_english:
  ### Party Names ###
  WRS_fascism_party:0 "KONR"
- WRS_fascism_party_long:0 "러시아 인민해방위원회"
+ WRS_fascism_party_long:0 "러시아 인민 해방위원회"
  WRS_national_socialism_party:0 "KONR"
  WRS_national_socialism_party_long:0 "러시아 인민해방위원회"
  WRS_ultranational_socialism_party:0 "과격 유라시아주의자"
  WRS_ultranational_socialism_party_long:0 "과격 유라시아주의자"
  WRS_despotism_party:0 "KONR"
- WRS_despotism_party_long:0 "러시아 인민해방위원회"
+ WRS_despotism_party_long:0 "러시아 인민 해방위원회"
  WRS_authoritarian_democrat_party:0 "KONR"
- WRS_authoritarian_democrat_party_long:0 "러시아 인민해방위원회"
+ WRS_authoritarian_democrat_party_long:0 "러시아 인민 해방위원회"
  WRS_social_conservative_party:0 ""
  WRS_social_conservative_party_long:0 ""
  WRS_social_liberal_party:0 ""
@@ -1553,7 +1553,7 @@
  #Tukha Events
 
  tukha.1.t:0 "국경에 내걸린 백기"
- tukha.1.d:0 "A series of white flags rising on our border with Tukhachevsky's West Russian Revolutionary Front has marked us as the clear next target for his expansionist desires. The radio message that accompanied the event, as well, has made no doubt of his ambitions towards us.\n\nAs stated in the radio message, we shall have three days to surrender to the Front, turn over our military to Tukhachevsky's command, and make our lands ready to be administered by the Arkhangelsk government. If we are to surrender now, it continues, our generals and government shall be pardoned, and is free to go into exile, or continue serving under the Front.\n\nIf we fail to comply, one more warning will be given, after which our government is no longer guaranteed to be pardoned. If this warning is not heeded, Tukhachevsky promises, we will meet nothing but total annihilation at the hands of the Red Army.\n\nOur commanders have been prepared, and our armed forces readied to repel a strike if it comes, while our government deliberates this ultimatum.\n\nWith the increasingly powerful Front bearing down on us, and their banners visible from the border, it seems that the time has come to either bend our knee, or make a stand."
+ tukha.1.d:0 "투하쳅스키가 이끄는 서러시아 혁명전선과의 국경에서 일련의 백기가 내걸리며 우리를 팽창주의적 욕망의 분명한 다음 목표로 지목했습니다. 이 사건에 함께 전달된 라디오 전보 역시 우리에 대한 야망을 품고 있음을 의심의 여지 없이 보여주고 있습니다.\n\n라디오에서 언급된 바와 같이, 우리는 혁명전선에 항복한 뒤 군대를 투하쳅스키의 지휘 하에 인계하고 우리의 땅을 아르한겔스크의 정부에서 통치할 수 있도록 준비시킬 3일의 시간을 받게 될 것입니다. 우리가 지금 항복한다면, 우리의 장군들과 정부 인사는 사면되어 자유롭게 망명하거나 혁명전선 휘하에서 계속 복무를 이어갈 수 있습니다.\n\n만약 우리가 이에 응하지 않는다면, 한 차례 더 경고가 내려올 것이며, 그 이후 우리의 정부는 더 이상 사면 대상이 될 수 없습니다. 만약 이 경고마저 받아들이지 않는다면, 투하쳅스키가 공언한 대로 우리는 붉은 군대의 손에 전멸당할 것입니다.\n\n우리 정부가 이 최후통첩을 숙고하는 동안, 우리 지휘관들은 방어를 준비하고 군은 공세를 격퇴할 채비를 갖추고 있습니다.\n\n점점 강력해지는 혁명전선이 우리를 짓누르고 국경에는 그들의 깃발이 휘날리는 상황이니, 이제 우리는 무릎을 꿇거나 세워야 할 때가 왔습니다."
  tukha.1.a:0 "For the safety of the people, we must yield."
  tukha.1.b:0 "For our principles, we must stand fast!"
 
